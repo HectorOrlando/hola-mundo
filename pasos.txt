@@ -9,7 +9,7 @@ $ git remote add origin https://github.com/user/repo.git
 - En el package.json pega la linea:
  "homepage":"https://yourusername.github.io/reposi..." 
  mi cambioso
- "homepage":"https://HectorOrlando.github.io/hola-mundo" 
+ "homepage":"https://HectorOrlando.github.io/hola-mundo/" 
 
 Que es el package.json ? es un archivo de configuración con información sobre mi proyecto, aparecen las dependencias así sabe node que mi proyecto depende de esos módulos, cuando ejecuten el npm install LOS INSTALA. y también tiene los scripts npm start, y cuando desde la consola ejecute el comando npm start hace algo, para scripts personalizados usamos npm run NOMBRE_COMANDO
 
